@@ -1,0 +1,20 @@
+.container{
+    background: gray;
+}
+.jumbotron{
+     background: mintcream;
+}
+
+img {
+    display: block;
+    margin-left: 323px;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
